@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/andreasprlic"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fa-solid fa-graduation-cap"
       url: "http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
@@ -90,7 +90,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/andreasprlic"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fa-solid fa-graduation-cap"
       url: "http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en"
 
 

@@ -157,7 +157,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 				</p>
 
 				<p>
-				 <a href="https://github.com/biojava/biojava"><i class="fa fa-github-square"></i> BioJava's GitHub page</a>
+				 <a href="https://github.com/biojava/biojava"><i class="fab fa-wt fa-github"></i> BioJava's GitHub page</a>
 				</p>
 
 		</dd>

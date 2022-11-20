@@ -5,7 +5,7 @@ title: "Publications"
 ---
 
 
-[ <a href="http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en"> <img class="pull-left" src="/assets/images/scholar.jpeg" width="30"/>Google Scholar</a> |
+[ <a href="http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en"> <i class="fa-solid fa-graduation-cap"/> Google Scholar</a> |
 <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Search&term=%22Prlic+A%22%5BAuthor%5D"> <img class="pull-left" src="/assets/images/pubmed.png" width="30" /> Pubmed</a> |
 <a href="http://orcid.org/0000-0001-6346-6391"> <img class="pull-left" src="/assets/images/orcid.png" width="30" /> ORCID</a> ]
 
@@ -46,7 +46,8 @@ title: "Publications"
 
 		<strong>RCSB Protein Data Bank: biological macromolecular structures enabling research and education in fundamental biology, biomedicine, biotechnology and energy</strong><br/>
 		<i>Nucleic acids research</i> <a href="https://doi.org/10.1093/nar/gky1004">https://doi.org/10.1093/nar/gky1004</a><br/>
-
+		<p>Stephen K Burley, Helen M Berman, Charmi Bhikadiya, Chunxiao Bi, Li Chen, Luigi Di Costanzo, Cole Christie, Ken Dalenberg, Jose M Duarte, Shuchismita Dutta, Zukang Feng, Sutapa Ghosh, David S Goodsell, Rachel K Green, Vladimir Guranovic, Dmytro Guzenko, Brian P Hudson, Tara Kalro, Yuhe Liang, Robert Lowe, Harry Namkoong, Ezra Peisach, Irina Periskova, Andreas Prlic, Chris Randle, Alexander Rose, Peter Rose, Raul Sala, Monica Sekharan, Chenghua Shao, Lihua Tan, Yi-Ping Tao, Yana Valasatava, Maria Voigt, John Westbrook, Jesse Woo, Huanwang Yang, Jasmine Young, Marina Zhuravleva, Christine Zardecki</p><br/>
+		
 		<br/>
 		<hr/>
 
@@ -86,18 +87,18 @@ title: "Publications"
 		<hr/>
 
 		<strong>Impact of genetic variation on three dimensional structure and function of proteins</strong> <br/>
-		<i>Roshni Bhattacharya, Peter W Rose, Stephen K Burley, Andreas Prlic</i> <br/>
 		<i>PloS one</i> <a href="https://doi.org/10.1371/journal.pone.0171355">https://doi.org/10.1371/journal.pone.0171355</a> <br/>
+		<p>Roshni Bhattacharya, Peter W Rose, Stephen K Burley, Andreas Prlic</p> <br/>
 
 	<h4>2016</h4>
 
 		<strong>The RCSB protein data bank: integrative view of protein, gene and 3D structural information</strong><br/>
 
 		<i>Nucleic Acids Research</i> doi:<a target="_blank" href="http://dx.doi.org/10.1093/nar/gkw1000">10.1093/nar/gkw1000</a> <br/>
-		<i>Rose PW, Prli&#263; A, Altunkaya A, Bi C, Bradley AR, Christie CH, Costanzo LD, Duarte JM,
+		<p>Rose PW, Prli&#263; A, Altunkaya A, Bi C, Bradley AR, Christie CH, Costanzo LD, Duarte JM,
 			Dutta S, Feng Z, Green RK, Goodsell DS, Hudson B, Kalro T, Lowe R,
 			Peisach E, Randle C, Rose AS, Shao C, Tao YP, Valasatava Y, Voigt M, Westbrook JD,
-			Woo J, Yang H, Young JY, Zardecki C, Berman HM, Burley SK.</i><br/>
+			Woo J, Yang H, Young JY, Zardecki C, Berman HM, Burley SK.</p><br/>
 		[<a href="http://nar.oxfordjournals.org/content/early/2016/10/27/nar.gkw1000.long">article</a>]
 		[<a href="http://www.ncbi.nlm.nih.gov/pubmed/27794042">pubmed</a>] <br/>
 
