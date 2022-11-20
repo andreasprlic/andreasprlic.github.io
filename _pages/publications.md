@@ -5,47 +5,89 @@ title: "Publications"
 ---
 
 
-<section>
-	<ul class="list-media unstyled">
-			<div class="media">
-				<div class="author__avatar">
-				<img class="pull-left" src="/assets/images/scholar.jpeg" width="30"/>
-				</div>
-				<div class="media-body">
-					<a
-						href="http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en">Google
-						Scholar profile</a>
-				</div>
-			</div>
-			<div class="media">
-				<div class="author__avatar">
-				<img class="pull-left" src="/assets/images/pubmed.png" width="30" />
-				</div>
-				<div class="media-body">
-					<a
-						href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Search&term=%22Prlic+A%22%5BAuthor%5D">Pubmed</a>
-				</div>
-			</div>
-			<div class="media">
-				<div class="author__avatar">
-				<img class="pull-left" src="/assets/images/orcid.png" width="30" />
-				</div>
-				<div class="media-body">
-					<a
-						href="http://orcid.org/0000-0001-6346-6391">ORCID</a>
-				</div>
-			</div>
-
-	</ul>
-</section>
+[ <a href="http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en"> <img class="pull-left" src="/assets/images/scholar.jpeg" width="30"/>Google Scholar</a> |
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Search&term=%22Prlic+A%22%5BAuthor%5D"> <img class="pull-left" src="/assets/images/pubmed.png" width="30" /> Pubmed</a> |
+<a href="http://orcid.org/0000-0001-6346-6391"> <img class="pull-left" src="/assets/images/orcid.png" width="30" /> ORCID</a> ]
 
 <section class="publications">
 	<h2 class="section-head">
 		<b></b> <span class="fa-stack">
   					<i class="fa fa-circle fa-stack-2x"></i>
   					<i class="fa fa-info fa-inverse fa-stack-1x"></i>
-				</span> Publications:
+				</span> References:
 	</h2>
+
+
+	<h4>2022</h4>
+
+		<strong>Development and application of a computable genotype model in the GA4GH Variation Representation Specification</strong> <br/>
+		<i>bioRxiv</i> <a href="https://www.biorxiv.org/content/10.1101/2022.09.06.506817v1.abstract">https://doi.org/10.1101/2022.09.06.506817</a><br/>
+		<p>Wesley Goar, Lawrence Babb, Srikar Chamala, Melissa Cline, Robert R Freimuth, Reece K Hart, Kori Kuzma, Jennifer Lee, Tristan Nelson, Andreas Prlic, Kevin Riehle, Anastasia Smith, Kathryn Stahl, Andrew David Yates, Heidi L Rehm, Alex H Wagner</p>
+		
+
+	<h4>2021</h4>
+		<strong>GA4GH: International policies and standards for data sharing across genomic research and healthcare</strong><br/>
+		<i>Cell genomics</i> <a href="https://doi.org/10.1016/j.xgen.2021.100029">https://doi.org/10.1016/j.xgen.2021.100029</a>
+		
+	<h4>2020</h4>
+		<strong>SeqRepo: A system for managing local collections of biological sequences</strong> <br/>
+		<i>PLoS one</i> <a href="https://doi.org/10.1371/journal.pone.0239883">https://doi.org/10.1371/journal.pone.0239883</a>
+		<p>RK Hart, A Prlic</p>
+
+
+	<h4>2019</h4>
+		<strong>BioJava 5: A community driven open-source bioinformatics library</strong> <br/>
+		<i>PLoS computational biology</i><a href="https://doi.org/10.1371/journal.pcbi.1006791">https://doi.org/10.1371/journal.pcbi.1006791</a> <br/>
+		<p>Aleix Lafita, Spencer Bliven, Andreas Prlic, Dmytro Guzenko, Peter W Rose, Anthony Bradley, Paolo Pavan, Douglas Myers-Turnbull, Yana Valasatava, Michael Heuer, Matt Larson, Stephen K Burley, Jose M Duarte</p>
+
+
+		<br/>
+		<hr/>
+
+		<strong>RCSB Protein Data Bank: biological macromolecular structures enabling research and education in fundamental biology, biomedicine, biotechnology and energy</strong><br/>
+		<i>Nucleic acids research</i> <a href="https://doi.org/10.1093/nar/gky1004">https://doi.org/10.1093/nar/gky1004</a><br/>
+
+		<br/>
+		<hr/>
+
+		<strong>Analyzing the symmetrical arrangement of structural repeats in proteins with CE-Symm</strong> <br/>
+		<i>PLoS computational biology</i> <a href="https://doi.org/10.1371/journal.pcbi.1006842">https://doi.org/10.1371/journal.pcbi.1006842</a><br/>
+		<p>Spencer E Bliven, Aleix Lafita, Peter W Rose, Guido Capitani, Andreas Prlic, Philip E Bourne</p> 
+
+	<h4>2018</h4>
+
+		<strong>hgvs: a Python package for manipulating sequence variants using HGVS nomenclature: 2018 update</strong><br/>
+		<i>Human mutation</i> <a href="https://doi.org/10.1002/humu.23615">https://doi.org/10.1002/humu.23615</a><br/>
+		<p>Meng Wang, Keith M Callenberg, Raymond Dalgleish, Alexandre Fedtsov, Naomi K Fox, Peter J Freeman, Kevin B Jacobs, Piotr Kaleta, Andrew J McMurry, Andreas Prlic, Veena Rajaraman, Reece K Hart</p><br/>
+
+
+		<br/>
+		<hr/>
+
+		<strong>Investigation of protein quaternary structure via stoichiometry and symmetry ?nformation</strong><br/>
+		<i>PloS one</i> <a href="https://doi.org/10.1371/journal.pone.0197176">https://doi.org/10.1371/journal.pone.0197176</a> <br/>
+		<p>Selcuk Korkmaz, Jose M Duarte, Andreas Prlic, Dincer Goksuluk, Gokmen Zararsiz, Osman Saracbasi, Stephen K Burley, Peter W Rose</p><br/>
+		
+		<br/>
+		<hr/>
+
+		<strong>Recon3D enables a three-dimensional view of gene variation in human metabolism</strong> <br/>
+		<i>Nature biotechnology</i> <a href="https://doi.org/10.1038/nbt.4072">https://doi.org/10.1038/nbt.4072</a> <br/>
+		<p>Elizabeth Brunk, Swagatika Sahoo, Daniel C Zielinski, Ali Altunkaya, Andreas Drager, Nathan Mih, Francesco Gatto, Avlant Nilsson, German Andres Preciat Gonzalez, Maike Kathrin Aurich, Andreas Prlic, Anand Sastry, Anna D Danielsdottir, Almut Heinken, Alberto Noronha, Peter W Rose, Stephen K Burley, Ronan MT Fleming, Jens Nielsen, Ines Thiele, Bernhard O Palsson</p> <br/>
+
+	<h4>2017</h4>
+		
+		<strong>Mapping genetic variations to three-dimensional protein structures to enhance variant interpretation: a proposed framework</strong> <br/>
+		<i>Genome medicine</i> <a href="https://doi.org/10.1186/s13073-017-0509-y">https://doi.org/10.1186/s13073-017-0509-y</a> <br/>
+		<p>Gustavo Glusman, Peter W Rose, Andreas Prlic, Jennifer Dougherty, Jose M Duarte, Andrew S Hoffman, Geoffrey J Barton, Emoke Bendixen, Timothy Bergquist, Christian Bock, Elizabeth Brunk, Marija Buljan, Stephen K Burley, Binghuang Cai, Hannah Carter, JianJiong Gao, Adam Godzik, Michael Heuer, Michael Hicks, Thomas Hrabe, Rachel Karchin, Julia Koehler Leman, Lydie Lane, David L Masica, Sean D Mooney, John Moult, Gilbert S Omenn, Frances Pearl, Vikas Pejaver, Sheila M Reynolds, Ariel Rokem, Torsten Schwede, Sicheng Song, Hagen Tilgner, Yana Valasatava, Yang Zhang, Eric W Deutsch</p> <br/>
+
+
+		<br/>
+		<hr/>
+
+		<strong>Impact of genetic variation on three dimensional structure and function of proteins</strong> <br/>
+		<i>Roshni Bhattacharya, Peter W Rose, Stephen K Burley, Andreas Prlic</i> <br/>
+		<i>PloS one</i> <a href="https://doi.org/10.1371/journal.pone.0171355">https://doi.org/10.1371/journal.pone.0171355</a> <br/>
 
 	<h4>2016</h4>
 

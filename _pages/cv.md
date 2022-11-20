@@ -133,13 +133,15 @@ With over 300,000 unique users per month from over 160 countries around the worl
 	<dl class="timeline dl-horizontal">
 
 	        <dt>2021 - </dt>
-		<dd> Global Aliance for Genomic Health. I am part of the leadership team for the <a href="https://vrs.ga4gh.org/en/stable/">Variation Representation</a> spec. We are developing a specification (plus implementation) for the description of genomic information</dd>
+		<dd> <a href="https://vrs.ga4gh.org/en/stable/">VRS</a> - <strong>Global Aliance for Genomic Health</strong>
+		<p>I am part of the leadership team for the <a href="https://vrs.ga4gh.org/en/stable/">Variation Representation</a> spec. We are developing a specification (plus implementation) for the description of genomic information.</p></dd>
 
 		<dt>2011 - 2017</dt>
 
 		<dd>
 			Journal <a href="http://www.ploscompbiol.org/">PLoS Computational
-				Biology</a> <strong>Editor Software Section</strong>, building up a new section for the journal with the goal of publishing open source software of exceptional importance that has been shown to provide new biological insights.Some of the articles that are published in this section are amongst the most widely read for the journal.
+				Biology</a> <strong>Editor Software Section</strong>
+				<p>Building up a new section for the journal with the goal of publishing open source software of exceptional importance that has been shown to provide new biological insights.Some of the articles that are published in this section are amongst the most widely read for the journal.</p>
 				
 		</dd>
 
@@ -218,6 +220,5 @@ With over 300,000 unique users per month from over 160 countries around the worl
 	</dl>
 </section>
 
-</div>
 
-<%@include file="default_bottom.jsp" %>
+
