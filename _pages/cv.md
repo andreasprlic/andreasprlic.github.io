@@ -134,7 +134,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 
 	        <dt>2021 - </dt>
 		<dd> <a href="https://vrs.ga4gh.org/en/stable/">VRS</a> - <strong>Global Aliance for Genomic Health</strong>
-		<p>I am part of the leadership team for the <a href="https://vrs.ga4gh.org/en/stable/">Variation Representation</a> spec. We are developing a specification (plus implementation) for the description of genomic information.</p></dd>
+		<p>I am part of the leadership team for the <a href="https://vrs.ga4gh.org/en/stable/">Variation Representation</a> spec. We are developing a specification (plus implementation) for the description of genomic variation.</p></dd>
 
 		<dt>2011 - 2017</dt>
 
