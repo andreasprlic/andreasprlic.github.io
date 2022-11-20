@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Andreas Prli&#263; Homepage
-email:
+email: andreas+website@prlic.org
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: andorsch
 github_username: andreasprlic
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
+locale: "en-US"
 
 # Build settings
 markdown: kramdown
@@ -65,9 +65,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://www.spice-3d.org"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/andorsch"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreasprlic/"
@@ -75,16 +72,17 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/andreasprlic"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-building-columns"
+      icon: "fab fa-fw fa-graduation-cap"
       url: "http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://prlic.social/@andreas"
       
- 
-
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/andorsch"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://prlic.social/@andreas"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreasprlic/"
@@ -92,22 +90,11 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "http://www.linkedin.com/in/andreasprlic"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-building-columns"
+      icon: "fab fa-fw fa-graduation-cap"
       url: "http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en"
 
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -116,9 +103,4 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+
