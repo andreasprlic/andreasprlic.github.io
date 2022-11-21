@@ -133,7 +133,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 	</h2>
 
 
-	<dl class="timeline dl-horizontal">
+	<ul class="list-media unstyled">
 
 	        <dt>2021 - </dt>
 		<dd> <a href="https://vrs.ga4gh.org/en/stable/">VRS</a> - <strong>Global Aliance for Genomic Health</strong>
@@ -171,7 +171,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 			Bioinformatics, Nucleic Acid Research, PLoS comp. biol, PLoS ONE,
 			Protein Science
 		</dd>
-	</dl>
+	</ul>
 </section>
 
 <section class="education">
@@ -182,7 +182,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 				</span> Education
 	</h2>
 
-	<dl class="timeline dl-horizontal">
+	<ul class="list-media unstyled">
 		<dt>1999-2003</dt>
 		<dd>
 			<strong>Ph.D. degree</strong> in group of Manfred Sippl <br /> <a
@@ -220,7 +220,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 				<a href="http://www.sbg.ac.at">University of Salzburg</a>
 			</div>
 		</dd>
-	</dl>
+	</ul>
 </section>
 
 
