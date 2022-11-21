@@ -1,11 +1,17 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/swamy_beach.jpg
+
 ---
 
 ## Invitae
 
-* Engineering Lead / Principal Engineer *June 2017-now*
+* Engineering Lead / Principal Engineer
+  *June 2017-now*
 
 Invitae is the Nr. 1 contributor of interpreted variants at Clinvar. I am Engineering Lead for the *Interpretation Platform* that allows the company to scale up our clinical reporting workflows to thousands of samples per day.
 
@@ -14,7 +20,8 @@ Invitae is the Nr. 1 contributor of interpreted variants at Clinvar. I am Engine
 
 ## Protein Data Bank
 
-* Senior Scientist / Technical and Scientific Team Lead *February 2008 - May 2017*
+* Senior Scientist / Technical and Scientific Team Lead
+  *February 2008 - May 2017*
 
 I was a Senior Scientist at the Protein Data Bank (PDB), University of California, San Diego (UCSD). With over 350,000 unique users per month from over 160 countries around the world, the RCSB PDB is one of the worldwide leading Biological Databases. The RCSB PDB’s primary citation is in the top 100 of Nature’s most-cited research of all time. I was part of the RCSB PDB leadership team and was the scientific and technical lead for the San Diego team.
 [rcsb.org](https://www.rcsb.org)

@@ -36,6 +36,13 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 include:
   - _pages
 
+lunr:
+  search_within_pages: true
+#  search_full_content: true
+  
+atom_feed:
+  hide: true
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -56,6 +63,14 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+og_image: /assets/images/bio-photo.png
+
+social:
+  type: "Person"
+  name: "Andreas Prli&#263;"
+  links:
+    - "https://prlic.social/@andreas"
 
 author:
   name   : "Andreas Prli&#263;"
@@ -103,4 +118,8 @@ defaults:
       layout: single
       author_profile: true
 
-
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-1460553-1"
+    anonymize_ip: false # default

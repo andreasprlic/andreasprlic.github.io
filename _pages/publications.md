@@ -1,15 +1,19 @@
 ---
 permalink: /publications/
 title: "Publications"
-
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/geisel_library.jpg
 ---
 
 
-[ <a href="http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en"> <i class="fa-solid fa-graduation-cap"/> Google Scholar</a> |
+[<a href="http://scholar.google.com/citations?user=LnXh0T8AAAAJ&hl=en"> <i class="fa-solid fa-graduation-cap"/> Google Scholar</a> |
 <a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Search&term=%22Prlic+A%22%5BAuthor%5D"> <img class="pull-left" src="/assets/images/pubmed.png" width="30" /> Pubmed</a> |
-<a href="http://orcid.org/0000-0001-6346-6391"> <img class="pull-left" src="/assets/images/orcid.png" width="30" /> ORCID</a> ]
+<a href="http://orcid.org/0000-0001-6346-6391"> <img class="pull-left" src="/assets/images/orcid.png" width="30" /> ORCID</a>]
 
 <section class="publications">
+
 	<h2 class="section-head">
 		<b></b> <span class="fa-stack">
   					<i class="fa fa-circle fa-stack-2x"></i>
@@ -23,72 +27,66 @@ title: "Publications"
 		<strong>Development and application of a computable genotype model in the GA4GH Variation Representation Specification</strong> <br/>
 		<i>bioRxiv</i> <a href="https://www.biorxiv.org/content/10.1101/2022.09.06.506817v1.abstract">https://doi.org/10.1101/2022.09.06.506817</a><br/>
 		<p>Wesley Goar, Lawrence Babb, Srikar Chamala, Melissa Cline, Robert R Freimuth, Reece K Hart, Kori Kuzma, Jennifer Lee, Tristan Nelson, Andreas Prlic, Kevin Riehle, Anastasia Smith, Kathryn Stahl, Andrew David Yates, Heidi L Rehm, Alex H Wagner</p>
-		
+
+		<hr/>
 
 	<h4>2021</h4>
 		<strong>GA4GH: International policies and standards for data sharing across genomic research and healthcare</strong><br/>
 		<i>Cell genomics</i> <a href="https://doi.org/10.1016/j.xgen.2021.100029">https://doi.org/10.1016/j.xgen.2021.100029</a>
-		
+
+		<hr/>
+
 	<h4>2020</h4>
 		<strong>SeqRepo: A system for managing local collections of biological sequences</strong> <br/>
 		<i>PLoS one</i> <a href="https://doi.org/10.1371/journal.pone.0239883">https://doi.org/10.1371/journal.pone.0239883</a>
 		<p>RK Hart, A Prlic</p>
 
+		<hr/>
 
 	<h4>2019</h4>
 		<strong>BioJava 5: A community driven open-source bioinformatics library</strong> <br/>
-		<i>PLoS computational biology</i><a href="https://doi.org/10.1371/journal.pcbi.1006791">https://doi.org/10.1371/journal.pcbi.1006791</a> <br/>
+		<i>PLoS computational biology</i> <a href="https://doi.org/10.1371/journal.pcbi.1006791">https://doi.org/10.1371/journal.pcbi.1006791</a> <br/>
 		<p>Aleix Lafita, Spencer Bliven, Andreas Prlic, Dmytro Guzenko, Peter W Rose, Anthony Bradley, Paolo Pavan, Douglas Myers-Turnbull, Yana Valasatava, Michael Heuer, Matt Larson, Stephen K Burley, Jose M Duarte</p>
-
-
-		<br/>
-		<hr/>
 
 		<strong>RCSB Protein Data Bank: biological macromolecular structures enabling research and education in fundamental biology, biomedicine, biotechnology and energy</strong><br/>
 		<i>Nucleic acids research</i> <a href="https://doi.org/10.1093/nar/gky1004">https://doi.org/10.1093/nar/gky1004</a><br/>
-		<p>Stephen K Burley, Helen M Berman, Charmi Bhikadiya, Chunxiao Bi, Li Chen, Luigi Di Costanzo, Cole Christie, Ken Dalenberg, Jose M Duarte, Shuchismita Dutta, Zukang Feng, Sutapa Ghosh, David S Goodsell, Rachel K Green, Vladimir Guranovic, Dmytro Guzenko, Brian P Hudson, Tara Kalro, Yuhe Liang, Robert Lowe, Harry Namkoong, Ezra Peisach, Irina Periskova, Andreas Prlic, Chris Randle, Alexander Rose, Peter Rose, Raul Sala, Monica Sekharan, Chenghua Shao, Lihua Tan, Yi-Ping Tao, Yana Valasatava, Maria Voigt, John Westbrook, Jesse Woo, Huanwang Yang, Jasmine Young, Marina Zhuravleva, Christine Zardecki</p><br/>
-		
-		<br/>
-		<hr/>
+		<p>Stephen K Burley, Helen M Berman, Charmi Bhikadiya, Chunxiao Bi, Li Chen, Luigi Di Costanzo, Cole Christie, Ken Dalenberg, Jose M Duarte, Shuchismita Dutta, Zukang Feng, Sutapa Ghosh, David S Goodsell, Rachel K Green, Vladimir Guranovic, Dmytro Guzenko, Brian P Hudson, Tara Kalro, Yuhe Liang, Robert Lowe, Harry Namkoong, Ezra Peisach, Irina Periskova, Andreas Prlic, Chris Randle, Alexander Rose, Peter Rose, Raul Sala, Monica Sekharan, Chenghua Shao, Lihua Tan, Yi-Ping Tao, Yana Valasatava, Maria Voigt, John Westbrook, Jesse Woo, Huanwang Yang, Jasmine Young, Marina Zhuravleva, Christine Zardecki</p>
+
 
 		<strong>Analyzing the symmetrical arrangement of structural repeats in proteins with CE-Symm</strong> <br/>
 		<i>PLoS computational biology</i> <a href="https://doi.org/10.1371/journal.pcbi.1006842">https://doi.org/10.1371/journal.pcbi.1006842</a><br/>
 		<p>Spencer E Bliven, Aleix Lafita, Peter W Rose, Guido Capitani, Andreas Prlic, Philip E Bourne</p> 
 
+		<hr/>
+
 	<h4>2018</h4>
 
 		<strong>hgvs: a Python package for manipulating sequence variants using HGVS nomenclature: 2018 update</strong><br/>
 		<i>Human mutation</i> <a href="https://doi.org/10.1002/humu.23615">https://doi.org/10.1002/humu.23615</a><br/>
-		<p>Meng Wang, Keith M Callenberg, Raymond Dalgleish, Alexandre Fedtsov, Naomi K Fox, Peter J Freeman, Kevin B Jacobs, Piotr Kaleta, Andrew J McMurry, Andreas Prlic, Veena Rajaraman, Reece K Hart</p><br/>
-
-
-		<br/>
-		<hr/>
+		<p>Meng Wang, Keith M Callenberg, Raymond Dalgleish, Alexandre Fedtsov, Naomi K Fox, Peter J Freeman, Kevin B Jacobs, Piotr Kaleta, Andrew J McMurry, Andreas Prlic, Veena Rajaraman, Reece K Hart</p>
 
 		<strong>Investigation of protein quaternary structure via stoichiometry and symmetry ?nformation</strong><br/>
 		<i>PloS one</i> <a href="https://doi.org/10.1371/journal.pone.0197176">https://doi.org/10.1371/journal.pone.0197176</a> <br/>
-		<p>Selcuk Korkmaz, Jose M Duarte, Andreas Prlic, Dincer Goksuluk, Gokmen Zararsiz, Osman Saracbasi, Stephen K Burley, Peter W Rose</p><br/>
+		<p>Selcuk Korkmaz, Jose M Duarte, Andreas Prlic, Dincer Goksuluk, Gokmen Zararsiz, Osman Saracbasi, Stephen K Burley, Peter W Rose</p>
 		
-		<br/>
-		<hr/>
 
 		<strong>Recon3D enables a three-dimensional view of gene variation in human metabolism</strong> <br/>
 		<i>Nature biotechnology</i> <a href="https://doi.org/10.1038/nbt.4072">https://doi.org/10.1038/nbt.4072</a> <br/>
-		<p>Elizabeth Brunk, Swagatika Sahoo, Daniel C Zielinski, Ali Altunkaya, Andreas Drager, Nathan Mih, Francesco Gatto, Avlant Nilsson, German Andres Preciat Gonzalez, Maike Kathrin Aurich, Andreas Prlic, Anand Sastry, Anna D Danielsdottir, Almut Heinken, Alberto Noronha, Peter W Rose, Stephen K Burley, Ronan MT Fleming, Jens Nielsen, Ines Thiele, Bernhard O Palsson</p> <br/>
+		<p>Elizabeth Brunk, Swagatika Sahoo, Daniel C Zielinski, Ali Altunkaya, Andreas Drager, Nathan Mih, Francesco Gatto, Avlant Nilsson, German Andres Preciat Gonzalez, Maike Kathrin Aurich, Andreas Prlic, Anand Sastry, Anna D Danielsdottir, Almut Heinken, Alberto Noronha, Peter W Rose, Stephen K Burley, Ronan MT Fleming, Jens Nielsen, Ines Thiele, Bernhard O Palsson</p>
+
+	<hr/>
 
 	<h4>2017</h4>
 		
 		<strong>Mapping genetic variations to three-dimensional protein structures to enhance variant interpretation: a proposed framework</strong> <br/>
 		<i>Genome medicine</i> <a href="https://doi.org/10.1186/s13073-017-0509-y">https://doi.org/10.1186/s13073-017-0509-y</a> <br/>
-		<p>Gustavo Glusman, Peter W Rose, Andreas Prlic, Jennifer Dougherty, Jose M Duarte, Andrew S Hoffman, Geoffrey J Barton, Emoke Bendixen, Timothy Bergquist, Christian Bock, Elizabeth Brunk, Marija Buljan, Stephen K Burley, Binghuang Cai, Hannah Carter, JianJiong Gao, Adam Godzik, Michael Heuer, Michael Hicks, Thomas Hrabe, Rachel Karchin, Julia Koehler Leman, Lydie Lane, David L Masica, Sean D Mooney, John Moult, Gilbert S Omenn, Frances Pearl, Vikas Pejaver, Sheila M Reynolds, Ariel Rokem, Torsten Schwede, Sicheng Song, Hagen Tilgner, Yana Valasatava, Yang Zhang, Eric W Deutsch</p> <br/>
-
-
-		<br/>
-		<hr/>
+		<p>Gustavo Glusman, Peter W Rose, Andreas Prlic, Jennifer Dougherty, Jose M Duarte, Andrew S Hoffman, Geoffrey J Barton, Emoke Bendixen, Timothy Bergquist, Christian Bock, Elizabeth Brunk, Marija Buljan, Stephen K Burley, Binghuang Cai, Hannah Carter, JianJiong Gao, Adam Godzik, Michael Heuer, Michael Hicks, Thomas Hrabe, Rachel Karchin, Julia Koehler Leman, Lydie Lane, David L Masica, Sean D Mooney, John Moult, Gilbert S Omenn, Frances Pearl, Vikas Pejaver, Sheila M Reynolds, Ariel Rokem, Torsten Schwede, Sicheng Song, Hagen Tilgner, Yana Valasatava, Yang Zhang, Eric W Deutsch</p> 
 
 		<strong>Impact of genetic variation on three dimensional structure and function of proteins</strong> <br/>
 		<i>PloS one</i> <a href="https://doi.org/10.1371/journal.pone.0171355">https://doi.org/10.1371/journal.pone.0171355</a> <br/>
-		<p>Roshni Bhattacharya, Peter W Rose, Stephen K Burley, Andreas Prlic</p> <br/>
+		<p>Roshni Bhattacharya, Peter W Rose, Stephen K Burley, Andreas Prlic</p>
+
+		<hr/>
 
 	<h4>2016</h4>
 
@@ -98,12 +96,11 @@ title: "Publications"
 		<p>Rose PW, Prli&#263; A, Altunkaya A, Bi C, Bradley AR, Christie CH, Costanzo LD, Duarte JM,
 			Dutta S, Feng Z, Green RK, Goodsell DS, Hudson B, Kalro T, Lowe R,
 			Peisach E, Randle C, Rose AS, Shao C, Tao YP, Valasatava Y, Voigt M, Westbrook JD,
-			Woo J, Yang H, Young JY, Zardecki C, Berman HM, Burley SK.</p><br/>
+			Woo J, Yang H, Young JY, Zardecki C, Berman HM, Burley SK. <br/>
+
 		[<a href="http://nar.oxfordjournals.org/content/early/2016/10/27/nar.gkw1000.long">article</a>]
 		[<a href="http://www.ncbi.nlm.nih.gov/pubmed/27794042">pubmed</a>] <br/>
-
-		<br/>
-		<hr/>
+		</p>
 
 	<strong>Integrating genomic information with protein sequence and 3D atomic level structure at the RCSB protein data bank</strong><br/>
 
@@ -113,7 +110,6 @@ title: "Publications"
 	[<a href="http://bioinformatics.oxfordjournals.org/content/31/8/1316.full">article</a>]
 	[<a href="http://www.ncbi.nlm.nih.gov/pubmed/25505094">pubmed</a>] <br/>
 
-	<br/>
 	<hr/>
 
 	<h4>2015</h4>
@@ -125,7 +121,6 @@ title: "Publications"
 		      [<a href="http://bioinformatics.oxfordjournals.org/content/31/8/1316.full">article</a>]
 		      [<a href="http://www.ncbi.nlm.nih.gov/pubmed/25505094">pubmed</a>] <br/>
 
-		    <br/>
 		    <hr/>
 
 	<h4>2014</h4>
@@ -137,7 +132,6 @@ title: "Publications"
 		      [<a href="http://www.ncbi.nlm.nih.gov/pubmed/25428375">pubmed</a>] <br/>
 
 	<br />
-	<br />
 
 		      <strong>RCSB PDB Mobile: iOS and Android mobile apps to provide data access and visualization to the RCSB Protein Data Bank</strong><br/>
 
@@ -146,7 +140,6 @@ title: "Publications"
 		      [<a href="http://bioinformatics.oxfordjournals.org/content/31/1/126.long">article</a>]
 		      [<a href="http://www.ncbi.nlm.nih.gov/pubmed/25183487">pubmed</a>] <br/>
 
-	<br />
 	<br />
 
 		      <strong>Systematic Detection of Internal Symmetry in Proteins Using CE-Symm</strong> <br/>
@@ -173,7 +166,7 @@ title: "Publications"
 		href="http://www.sciencedirect.com/science/article/pii/S0014579313000240#">article</a>]
 	[<a href="http://www.ncbi.nlm.nih.gov/pubmed/23337870">pubmed</a>]
 
-	<br />
+	<br/>
 	<br />
 
 		<strong>The RCSB Protein Data Bank: new resources for
@@ -188,7 +181,9 @@ title: "Publications"
 		href="http://nar.oxfordjournals.org/content/41/D1/D475.abstract">abstract</a>]
 	[<a href="http://nar.oxfordjournals.org/content/41/D1/D475.full.pdf">pdf</a>]
 	[<a href="http://www.ncbi.nlm.nih.gov/pubmed/23193259">pubmed</a>] <br />
+
 	<hr />
+
 	<h4>2012</h4>
 
 	<strong>Ten Simple Rules for the Open Development of
@@ -200,26 +195,26 @@ title: "Publications"
 	[<a
 		href="http://www.ploscompbiol.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1002802&representation=PDF">pdf</a>]
 	[<a href="http://www.ncbi.nlm.nih.gov/pubmed/23236269">pubmed</a>] <br />
-	<br /> <strong>The PLOS Computational Biology Software Section</strong><br />
-	<a
-		href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002799">PLoS
-		Comput Biol. 2012 Nov;8(11): e1002799.
-		doi:10.1371/journal.pcbi.1002799</a><br /> <i>Prlic A, Lapp H</i><br /> [<a
-		href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002799">article<a>]
+	<br />
+
+	<strong>The PLOS Computational Biology Software Section</strong><br />
+	<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002799">PLoS Comput Biol. 2012 Nov;8(11): e1002799.
+		doi:10.1371/journal.pcbi.1002799</a><br />
+		<i>Prlic A, Lapp H</i><br /> [<a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002799">article<a>]
 			[<a
 			href="http://www.ploscompbiol.org/article/fetchObjectAttachment.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1002799&representation=PDF">pdf<a>]
-					[<a href="http://www.ncbi.nlm.nih.gov/pubmed/23209400">pubmed<a>]
+					[<a href="http://www.ncbi.nlm.nih.gov/pubmed/23209400">pubmed</a>]
 
 
+		<br /> <br />
 
-							<br /> <br /> <strong>BioJava: an open-source framework
-								for bioinformatics in 2012.</strong><br /> <a
-							href="http://bioinformatics.oxfordjournals.org/content/28/20/2693.full">Bioinformatics.
-								2012 Oct 15;28(20):2693-2695. Epub 2012 Aug 9.</a><br /> <i>Prlic
-								A, Yates A, Bliven SE, Rose PW, Jacobsen J, Troshin PV, Chapman
+		<strong>BioJava: an open-source framework for bioinformatics in 2012.</strong><br />
+		<a href="http://bioinformatics.oxfordjournals.org/content/28/20/2693.full">Bioinformatics.
+								2012 Oct 15;28(20):2693-2695. Epub 2012 Aug 9.</a><br />
+		<i>Prlic A, Yates A, Bliven SE, Rose PW, Jacobsen J, Troshin PV, Chapman
 								M, Gao J, Koh CH, Foisy S, Holland R, Rimsa G, Heuer ML,
-								Brandstaetter-Mueller H, Bourne PE, Willis S.</i><br /> [<a
-							href="http://bioinformatics.oxfordjournals.org/content/28/20/2693.abstract">abstract</a>]
+								Brandstaetter-Mueller H, Bourne PE, Willis S.</i><br />
+		[<a  href="http://bioinformatics.oxfordjournals.org/content/28/20/2693.abstract">abstract</a>]
 							[<a
 							href="http://bioinformatics.oxfordjournals.org/content/28/20/2693.full.pdf">pdf</a>]
 							[<a href="http://www.ncbi.nlm.nih.gov/pubmed/22877863">pubmed</a>]
@@ -498,7 +493,8 @@ title: "Publications"
 								Recognition Category.</strong> <br /> <a
 							href="http://www3.interscience.wiley.com/cgi-bin/fulltext/66005897/HTMLSTART">Proteins.
 								2001; 45 (S5): 55-67</a><br /> <i>Sippl-MJ, Lackner-P,
-								Domingues-FS, Prlic-A, Malik-R, Andreeva-A, Wiederstein-M</i> [<a
+								Domingues-FS, Prlic-A, Malik-R, Andreeva-A, Wiederstein-M</i> <br/>
+								[<a
 							href="http://www3.interscience.wiley.com/cgi-bin/abstract/66005897/ABSTRACT">abstract</a>]
 							[<a
 							href="http://www3.interscience.wiley.com/cgi-bin/fulltext/66005897/PDFSTART">pdf</a>]
@@ -528,10 +524,3 @@ title: "Publications"
 							[<a
 							href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=PubMed&amp;list_uids=10526359&amp;dopt=Abstract">pubmed</a>]
 
-							</p>
-</section>
-
-
-</div>
-
-<%@include file="default_bottom.jsp" %>

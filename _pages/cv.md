@@ -1,6 +1,10 @@
 ---
 permalink: /cv/
 title: "Curriculum Vitae"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.2"
+  overlay_image: /assets/images/library.jpg
 ---
 
 <section class="specialties">
@@ -15,9 +19,8 @@ title: "Curriculum Vitae"
 		 I enjoy combining my IT and science skills to deliver high performance and scalable scientific algorithms, applications, and web sites for large user communities.
 	</p>
 
-
 	<p>
-		More than 15 years of experience in bioinformatics software development. 
+		More than 15 years of experience in software development for bioinformatics and clinical diagnostics.
 	</p>
 
 	
@@ -191,7 +194,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 
 			<div>
 				Title: <strong>WILMA - a platform for the automated
-					annotation of protein sequences</strong> [<a href="wilma">more</a>]
+					annotation of protein sequences</strong> [<a href="/wilma">more</a>]
 			</div>
 		</dd>
 
@@ -205,7 +208,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 			</p>
 			<div>
 				Title: <strong>Deriving substitution matrices for amino
-					acids and secondary structure</strong> [<a href="substmax">more</a>]
+					acids and secondary structure</strong> [<a href="/substmax">more</a>]
 			</div>
 
 		</dd>
