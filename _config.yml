@@ -79,7 +79,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "http://www.spice-3d.org"
+      url: "https://www.spice-3d.org"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andreasprlic/"
