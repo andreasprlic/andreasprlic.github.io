@@ -75,7 +75,7 @@ social:
 author:
   name   : "Andreas Prli&#263;"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "Bioinformatics software engineer and engineering lead in genome informatics, protein sequence, structure."
+  bio    : "Principal Engineer at Natera. Bioinformatics software engineer specializing in clinical genomics, tertiary genome analysis, and variant interpretation."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

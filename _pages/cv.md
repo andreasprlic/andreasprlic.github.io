@@ -20,7 +20,7 @@ header:
 	</p>
 
 	<p>
-		More than 15 years of experience in software development for bioinformatics and clinical diagnostics.
+		More than 20 years of experience in software development for bioinformatics and clinical diagnostics.
 	</p>
 
 	
@@ -37,15 +37,26 @@ header:
 	<ul class="list-media unstyled">
 			<div class="media">
 				<div class="author__avatar">
+				</div>
+				<div class="media-body">
+				<h3 class="company">Natera</h3>
+				<p class="role">Principal Engineer <span class="muted">May 2024–present</span>
+				</p>
+				<a class="website" href="https://natera.com">Natera</a>
+				<p class="brief">Natera is focused on oncology, women's health, and organ health. Working on tertiary genome analysis and variant interpretation platforms for clinical reporting.</p>
+				</div>
+			</div>
+		<hr/>
+			<div class="media">
+				<div class="author__avatar">
 				<img class="pull-left" src="/assets/images/invitae.png" />
 				</div>
 				<div class="media-body">
 				<h3 class="company">Invitae</h3>
-				<p class="role">Engineering Lead / Principal Engineer <span class="muted">June 2017-now</span>
+				<p class="role">Engineering Lead / Principal Engineer <span class="muted">June 2017–2024</span>
 				</p>
 				 <a class="website" href="https://invitae.com">Invitae</a>
-				<p class="brief">Invitae is the Nr. 1 contributor of interpreted variants at Clinvar. I am Engineering Lead for the <b>Interpretation Platform</b> that allows the company to scale up our clinical reporting workflows to thousands of samples per day.				
- </p>
+				<p class="brief">Invitae was the Nr. 1 contributor of interpreted variants at ClinVar. Engineering Lead for the <b>Interpretation Platform</b> that scaled clinical reporting workflows to thousands of samples per day.</p>
 				</div>
 			</div>
 		<hr/>
@@ -136,7 +147,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 	<ul class="list-media unstyled">
 
 	        <dt>2021 - </dt>
-		<dd> <a href="https://vrs.ga4gh.org/en/stable/">VRS</a> - <strong>Global Aliance for Genomic Health</strong>
+		<dd> <a href="https://vrs.ga4gh.org/en/stable/">VRS</a> - <strong>Global Alliance for Genomic Health</strong>
 		<p>I am part of the leadership team for the <a href="https://vrs.ga4gh.org/en/stable/">Variation Representation</a> spec. We are developing a specification (plus implementation) for the description of genomic variation.</p></dd>
 
 		<dt>2011 - 2017</dt>
@@ -144,7 +155,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 		<dd>
 			Journal <a href="http://www.ploscompbiol.org/">PLoS Computational
 				Biology</a> <strong>Editor Software Section</strong>
-				<p>Building up a new section for the journal with the goal of publishing open source software of exceptional importance that has been shown to provide new biological insights.Some of the articles that are published in this section are amongst the most widely read for the journal.</p>
+				<p>Building up a new section for the journal with the goal of publishing open source software of exceptional importance that has been shown to provide new biological insights. Some of the articles that are published in this section are amongst the most widely read for the journal.</p>
 				
 		</dd>
 
@@ -168,7 +179,7 @@ With over 300,000 unique users per month from over 160 countries around the worl
 		<dt></dt>
 		<dd>
 			<strong>Referee</strong> for journals: Bioinformatics, Briefings in
-			Bioinformatics, Nucleic Acid Research, PLoS comp. biol, PLoS ONE,
+			Bioinformatics, Nucleic Acids Research, PLoS comp. biol, PLoS ONE,
 			Protein Science
 		</dd>
 	</ul>

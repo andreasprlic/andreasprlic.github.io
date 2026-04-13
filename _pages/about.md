@@ -8,12 +8,21 @@ header:
 
 ---
 
+## Natera
+
+* Principal Engineer
+  *May 2024–present*
+
+Natera is focused on oncology, women's health, and organ health. I work on tertiary genome analysis and variant interpretation platforms for clinical reporting.
+
+[natera.com](https://www.natera.com)
+
 ## Invitae
 
 * Engineering Lead / Principal Engineer
-  *June 2017-now*
+  *June 2017–2024*
 
-Invitae is the Nr. 1 contributor of interpreted variants at Clinvar. I am Engineering Lead for the *Interpretation Platform* that allows the company to scale up our clinical reporting workflows to thousands of samples per day.
+Invitae was the Nr. 1 contributor of interpreted variants at ClinVar. I was Engineering Lead for the *Interpretation Platform* that scaled clinical reporting workflows to thousands of samples per day.
 
 [invitae.com](https://www.invitae.com)
 
@@ -34,7 +43,7 @@ I was the project leader of the BioJava project. I developed and maintained the 
 
 [biojava.org](https://www.biojava.org)
 
-## PLOS comp biol
+## PLoS Computational Biology
 
 * Software Editor *2011 - 2018*
 
