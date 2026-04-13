@@ -117,20 +117,6 @@ With over 300,000 unique users per month from over 160 countries around the worl
 				</div>
 			</div>
 		<hr/>
-			<div class="media">
-			<div class="author__avatar">
-				<img class="pull-left" src="/assets/images/nawi_70.jpg" />
-				</div>
-				<div class="media-body">
-					<h3 class="company">University of Salzburg</h3>
-					<p class="role">
-						Research Assistant <span class="muted">1999-2003</span>
-					</p>
-					<p class="brief">Teaching various lectures and practical courses in bioinformatics and introduction to protein structure to undergraduate and graduate students.</p>
-					<a href="http://www.came.sbg.ac.at" class="website">http://www.came.sbg.ac.at</a>
-				</div>
-			</div>
-		<hr/>
 	</ul>
 </section>
 
@@ -194,43 +180,21 @@ With over 300,000 unique users per month from over 160 countries around the worl
 	</h2>
 
 	<ul class="list-media unstyled">
-		<dt>1999-2003</dt>
-		<dd>
-			<strong>Ph.D. degree</strong> in group of Manfred Sippl <br /> <a
-				href="http://www.came.sbg.ac.at/">Center of Applied Molecular
-				Engineering</a>
-			<p>
-				<a href="http://www.sbg.ac.at">University of Salzburg</a>
-			</p>
-
-			<div>
-				Title: <strong>WILMA - a platform for the automated
-					annotation of protein sequences</strong> [<a href="/wilma">more</a>]
+		<div class="media">
+			<div class="author__avatar">
+				<img class="pull-left" src="/assets/images/nawi_70.jpg" />
 			</div>
-		</dd>
-
-		<dt>1997-1999</dt>
-		<dd>
-			<strong>Diploma Thesis</strong> in group of Manfred Sippl. <br /> <a
-				href="http://www.came.sbg.ac.at/">Center of Applied Molecular
-				Engineering</a>
-			<p>
-				<a href="http://www.sbg.ac.at">University of Salzburg</a>
-			</p>
-			<div>
-				Title: <strong>Deriving substitution matrices for amino
-					acids and secondary structure</strong> [<a href="/substmax">more</a>]
+			<div class="media-body">
+				<h3 class="company">University of Salzburg</h3>
+				<p class="brief">
+					<strong>Ph.D., Bioinformatics/Genetics</strong><br/>
+					Thesis: <em>WILMA — a platform for the automated annotation of protein sequences</em> [<a href="/wilma">more</a>]<br/><br/>
+					<strong>Diploma, Biology/Genetics with focus on Bioinformatics</strong><br/>
+					Thesis: <em>Deriving substitution matrices for amino acids and secondary structure</em> [<a href="/substmax">more</a>]
+				</p>
+				<a href="http://www.sbg.ac.at" class="website">www.sbg.ac.at</a>
 			</div>
-
-		</dd>
-		<dt>1992-1999</dt>
-		<dd>
-			<strong>studies in biology / genetics with special focus on
-				bioinformatics</strong>
-			<div>
-				<a href="http://www.sbg.ac.at">University of Salzburg</a>
-			</div>
-		</dd>
+		</div>
 	</ul>
 </section>
 
