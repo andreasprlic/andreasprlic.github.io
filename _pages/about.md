@@ -5,48 +5,68 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/swamy_beach.jpg
-
 ---
 
 ## Natera
 
-* Principal Engineer
-  *May 2024–present*
+**Principal Engineer** — *May 2024–present*
 
-Natera is focused on oncology, women's health, and organ health. I work on tertiary genome analysis and variant interpretation platforms for clinical reporting.
+Principal Engineer.  Work covers production bioinformatics infrastructure, clinical interpretation platforms, and regulatory strategy in a matrixed organization of 60+ engineers, SQAs, and PMs.
 
 [natera.com](https://www.natera.com)
 
+---
+
 ## Invitae
 
-* Engineering Lead / Principal Engineer
-  *June 2017–2024*
+**Principal Engineer / Engineering Lead** — *June 2017–May 2024*
 
-Invitae was the Nr. 1 contributor of interpreted variants at ClinVar. I was Engineering Lead for the *Interpretation Platform* that scaled clinical reporting workflows to thousands of samples per day.
+Engineering lead for the *Interpretation Platform*, the clinical analysis and reporting engine processing >1M NGS samples/year. Scaled throughput from hundreds to thousands of samples per day. Initiated and delivered the *Next Generation Sample Data Store* and the *Invitae Variant Effect Predictor*. Selected by CTO as one of ten engineers to lead Engineering Excellence across Invitae.
 
 [invitae.com](https://www.invitae.com)
 
+---
 
-## Protein Data Bank
+## RCSB Protein Data Bank, UC San Diego
 
-* Senior Scientist / Technical and Scientific Team Lead
-  *February 2008 - May 2017*
+**Technical and Scientific Team Lead** — *February 2008–May 2017*
 
-I was a Senior Scientist at the Protein Data Bank (PDB), University of California, San Diego (UCSD). With over 350,000 unique users per month from over 160 countries around the world, the RCSB PDB is one of the worldwide leading Biological Databases. The RCSB PDB’s primary citation is in the top 100 of Nature’s most-cited research of all time. I was part of the RCSB PDB leadership team and was the scientific and technical lead for the San Diego team.
+Senior Scientist and technical lead at the RCSB PDB (San Diego site). The RCSB PDB serves 350,000+ unique users/month from 160+ countries; its primary citation ranks in [Nature's top 100 most-cited research of all time](http://www.nature.com/news/the-top-100-papers-1.16224). Built a multi-omics analytics framework mapping NGS data onto protein sequence, structure, function, and interaction data.
+
 [rcsb.org](https://www.rcsb.org)
 
-## BioJava
+---
 
-* Project Leader *2009 - 2017*
+## Wellcome Trust Sanger Institute
 
-I was the project leader of the BioJava project. I developed and maintained the protein structure module. I also was release coordinator for the 1.6, 1.7, and 3.0.X releases. Under my leadership we authored 2 publications that currently have more than 170 citations. We also migrated the project to GitHub where it is flourishing with an active developer base.
+**Postdoctoral Researcher** — *2004–2008*
 
-[biojava.org](https://www.biojava.org)
+Postdoc in the lab of Dr. Tim Hubbard. Participated in large-scale genome and protein annotation projects in national and international collaborations.
 
-## PLoS Computational Biology
+[sanger.ac.uk](https://www.sanger.ac.uk)
 
-* Software Editor *2011 - 2018*
+---
 
-I was an editor for the software section of PLoS Computational Biology. We are publishing articles about outstanding and open scientific software and the biological insights that can get gained with it.
+## Professional Activities
 
-[ploscompbiol.org](https://www.ploscompbiol.org)
+**Biocommons** — Steering Committee, 2023–present  
+Community fostering collaboration on bioinformatics open-source software and data for biological sequence analysis and interpretation.
+
+**GA4GH Variation Representation Specification (VRS)** — Leadership team, 2021–2024  
+Developing the specification and implementation for describing genomic variation. [vrs.ga4gh.org](https://vrs.ga4gh.org)
+
+**PLOS Computational Biology** — Software Section Editor, 2011–2017  
+Built up the software section with an emphasis on publishing open-source software with large scientific impact.
+
+**BioJava** — Project Leader, 2009–2017  
+Open-source library for processing biological data. 500+ citation publications; 600+ GitHub stars. [github.com/biojava/biojava](https://github.com/biojava/biojava)
+
+---
+
+## Education
+
+**PhD, Bioinformatics/Genetics** — University of Salzburg, Austria  
+Thesis: *WILMA — a platform for the automated annotation of protein sequences*
+
+**Diploma, Biology/Genetics (Bioinformatics focus)** — University of Salzburg, Austria  
+Thesis: *Deriving substitution matrices for amino acids and secondary structure*

@@ -53,7 +53,7 @@ header:
 				</div>
 				<div class="media-body">
 				<h3 class="company">Invitae</h3>
-				<p class="role">Engineering Lead / Principal Engineer <span class="muted">June 2017–2024</span>
+				<p class="role">Engineering Lead / Principal Engineer <span class="muted">June 2017–May 2024</span>
 				</p>
 				 <a class="website" href="https://invitae.com">Invitae</a>
 				<p class="brief">Invitae was the Nr. 1 contributor of interpreted variants at ClinVar. Engineering Lead for the <b>Interpretation Platform</b> that scaled clinical reporting workflows to thousands of samples per day.</p>

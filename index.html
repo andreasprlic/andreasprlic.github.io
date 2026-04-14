@@ -1,22 +1,46 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.35"
   overlay_image: /assets/images/cover2.jpg
   actions:
+    - label: "CV"
+      url: "/cv/"
+    - label: "Publications"
+      url: "/publications/"
     - label: "About"
       url: "/about/"
-#  caption: "Photo credit: [Andreas Prlic](https://prlic.social/@andreas)"
-excerpt: "Principal Engineer at Natera. I work in clinical genomics and tertiary genome analysis, combining IT and science to build variant interpretation platforms at scale."
-intro:
-  - excerpt: 'excerpt text goes here'
+excerpt: "Principal Engineer at Natera. I work in clinical genomics and tertiary genome analysis — building variant interpretation platforms and bioinformatics infrastructure for clinical-scale NGS."
+
+feature_row:
+  - title: "74+ Publications"
+    excerpt: "8,000+ citations, h-index 30. Topics span clinical genomics, variant interpretation, structural bioinformatics, and open-source infrastructure."
+    url: "/publications/"
+    btn_label: "View publications"
+    btn_class: "btn--inverse"
+  - title: "Principal Engineer"
+    excerpt: "At Natera. 20+ years building production bioinformatics systems."
+    url: "/cv/"
+    btn_label: "View CV"
+    btn_class: "btn--inverse"
+  - title: "Clinical Genomics"
+    excerpt: "Tertiary genome analysis, variant interpretation, and high-throughput diagnostic platforms — at the intersection of clinical science and production engineering."
+    url: "/cv/"
+    btn_label: "View CV"
+    btn_class: "btn--inverse"
 ---
-<a rel="me" href="https://prlic.social/@andreas">Mastodon feed</a>
+
+{% include feature_row %}
+
+<a rel="me" href="https://prlic.social/@andreas"></a>
+
+<div class="mastodon-header">
+  <h2>Recent posts</h2>
+  <a class="mastodon-handle" href="https://prlic.social/@andreas" target="_blank" rel="noopener noreferrer">@andreas@prlic.social</a>
+</div>
+
 <link rel="stylesheet" href="/assets/css/mastodon-timeline.css">
 <script src="/assets/js/mastodon-timeline.js"></script>
 <div id="mt-timeline" class="mt-timeline">

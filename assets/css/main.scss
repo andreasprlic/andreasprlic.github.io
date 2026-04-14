@@ -1,0 +1,381 @@
+---
+# Custom styles — imports the remote minimal-mistakes theme then overrides
+---
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/contrast";
+@import "minimal-mistakes";
+
+/* ============================================================
+   TYPOGRAPHY
+   ============================================================ */
+$serif-display: 'Playfair Display', Georgia, serif;
+$sans-body: 'Outfit', system-ui, -apple-system, sans-serif;
+
+body {
+  font-family: $sans-body;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Site title in masthead */
+.site-title {
+  font-family: $serif-display !important;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  font-size: 1.15em !important;
+}
+
+/* All headings */
+h1, h2, h3,
+.page__title,
+.archive__item-title,
+.splash .page__title {
+  font-family: $serif-display;
+  font-weight: 700;
+  letter-spacing: -0.25px;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+/* Navigation links */
+.greedy-nav a,
+.masthead__menu-item a {
+  font-family: $sans-body;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+}
+
+/* ============================================================
+   COLOR — teal accent replaces default blue
+   ============================================================ */
+$teal: #0d7a6e;
+$teal-dark: #085e54;
+$amber: #b45309;
+
+a {
+  color: $teal;
+
+  &:hover {
+    color: $teal-dark;
+  }
+
+  &:visited {
+    color: $teal;
+  }
+}
+
+/* Keep masthead/hero links readable */
+.masthead a,
+.masthead__inner-wrap a,
+.greedy-nav a,
+.site-nav__toggle {
+  color: inherit !important;
+}
+
+.btn--inverse {
+  border-color: $teal;
+  color: $teal;
+
+  &:hover {
+    background: $teal;
+    color: #fff;
+    border-color: $teal;
+  }
+}
+
+/* Author sidebar link icons */
+.author__urls {
+  a {
+    color: $teal;
+    font-family: $sans-body;
+    font-size: 0.9em;
+
+    &:hover { color: $teal-dark; }
+  }
+}
+
+/* ============================================================
+   AUTHOR SIDEBAR
+   ============================================================ */
+.author__bio {
+  font-family: $sans-body;
+  font-size: 0.92em;
+  line-height: 1.6;
+}
+
+.author__name {
+  font-family: $serif-display;
+  font-weight: 700;
+  font-size: 1.1em;
+  letter-spacing: -0.2px;
+}
+
+/* ============================================================
+   HERO / SPLASH
+   ============================================================ */
+.page__hero--overlay {
+  min-height: 460px;
+  align-items: center;
+
+  /* Slightly stronger gradient for legibility */
+  &::after {
+    background: linear-gradient(
+      to bottom,
+      rgba(0,0,0,0.45) 0%,
+      rgba(0,0,0,0.25) 60%,
+      rgba(0,0,0,0.5) 100%
+    );
+  }
+}
+
+.page__hero--overlay .page__title {
+  font-family: $serif-display;
+  font-size: clamp(2em, 5vw, 3em);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.45);
+}
+
+.page__hero--overlay .page__lead {
+  font-family: $sans-body;
+  font-size: 1.1em;
+  font-weight: 300;
+  max-width: 580px;
+  line-height: 1.6;
+  text-shadow: 0 1px 6px rgba(0,0,0,0.5);
+  opacity: 0.95;
+}
+
+/* Splash hero action buttons */
+.page__hero--overlay .btn {
+  font-family: $sans-body;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  border-radius: 3px;
+  padding: 0.6em 1.4em;
+  transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+}
+
+/* ============================================================
+   FEATURE ROWS (splash page key stats)
+   ============================================================ */
+.feature__wrapper {
+  border-bottom: 1px solid #e0e0da;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+}
+
+.feature__item {
+  .archive__item-title {
+    font-family: $serif-display;
+    font-size: 1.15em;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+    color: #111;
+  }
+
+  .archive__item-excerpt {
+    font-family: $sans-body;
+    font-size: 0.88em;
+    line-height: 1.6;
+    color: #444;
+  }
+
+  .btn {
+    font-family: $sans-body;
+    font-size: 0.82em;
+    font-weight: 500;
+    padding: 0.45em 1.1em;
+    border-radius: 3px;
+  }
+}
+
+/* ============================================================
+   MASTODON SECTION
+   ============================================================ */
+.mastodon-header {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6em;
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid #111;
+
+  h2 {
+    font-family: $serif-display;
+    font-size: 1.4em;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+    margin: 0;
+  }
+
+  .mastodon-handle {
+    font-family: $sans-body;
+    font-size: 0.82em;
+    font-weight: 400;
+    color: #666;
+    text-decoration: none;
+
+    &:hover { color: $teal; }
+  }
+}
+
+.mt-timeline {
+  background: #fafaf8;
+  border: 1px solid #e5e5e0;
+  border-radius: 6px;
+  padding: 0.5rem 1.5rem 1rem;
+  max-width: 760px;
+}
+
+.mt-toot {
+  border-bottom-color: #ebebeb !important;
+  padding-top: 1rem;
+  padding-bottom: 1.25rem;
+}
+
+.mt-toot:hover {
+  background: rgba(13, 122, 110, 0.04) !important;
+}
+
+.mt-user {
+  font-family: $sans-body;
+  font-weight: 600;
+  font-size: 0.9em;
+}
+
+.toot-text {
+  font-family: $sans-body;
+  font-size: 0.92em;
+  line-height: 1.55;
+
+  a {
+    color: $teal;
+  }
+}
+
+.toot-date {
+  font-family: $sans-body;
+  font-size: 0.75em;
+}
+
+/* ============================================================
+   MAIN CONTENT AREA
+   ============================================================ */
+.page__content {
+  p, li {
+    font-family: $sans-body;
+    line-height: 1.7;
+  }
+
+  h2, h3 {
+    margin-top: 1.8em;
+  }
+
+  /* Inline code */
+  code {
+    font-size: 0.85em;
+    background: #f5f5f0;
+    padding: 0.1em 0.35em;
+    border-radius: 3px;
+  }
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.page__footer {
+  font-family: $sans-body;
+  font-size: 0.85em;
+
+  a { color: #ccc; }
+}
+
+/* ============================================================
+   ABOUT / CV PAGE — clean up old media list styles
+   ============================================================ */
+.list-media.unstyled {
+  list-style: none;
+  padding-left: 0;
+}
+
+.media {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  align-items: flex-start;
+}
+
+.media-body {
+  flex: 1;
+}
+
+h3.company {
+  font-family: $serif-display;
+  font-weight: 700;
+  font-size: 1.1em;
+  margin-bottom: 0.15em;
+}
+
+p.role {
+  font-family: $sans-body;
+  font-weight: 500;
+  font-size: 0.9em;
+  margin-bottom: 0.3em;
+
+  .muted {
+    font-weight: 300;
+    color: #666;
+  }
+}
+
+p.brief {
+  font-family: $sans-body;
+  font-size: 0.88em;
+  line-height: 1.6;
+  color: #333;
+}
+
+a.website {
+  font-family: $sans-body;
+  font-size: 0.82em;
+  color: $teal;
+  display: inline-block;
+  margin-bottom: 0.4em;
+}
+
+h2.section-head {
+  font-family: $serif-display;
+  font-size: 1.4em;
+  font-weight: 700;
+  margin-top: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #111;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+
+  /* Hide the fa-stack icon decoration — font-awesome circle icons look dated */
+  .fa-stack { display: none; }
+}
+
+section {
+  margin-bottom: 2.5rem;
+}
+
+dl dt {
+  font-family: $sans-body;
+  font-weight: 600;
+  font-size: 0.85em;
+  color: #555;
+}
+
+dl dd {
+  font-family: $sans-body;
+  font-size: 0.9em;
+  line-height: 1.65;
+  margin-bottom: 1rem;
+}
